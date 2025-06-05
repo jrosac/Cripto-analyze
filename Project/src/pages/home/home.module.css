@@ -73,6 +73,14 @@ table td{
     color: #f91257;
 }
 
+.buttonMore{
+    background-color: #30beff;
+    padding: 8px 24px;
+    margin: 14px 0;
+    border-radius: 8px;
+    color: #FFF;
+}
+
 
 /* Responsivity*/
 
